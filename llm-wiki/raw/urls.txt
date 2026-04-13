@@ -1,0 +1,4 @@
+# URLs to ingest
+# One URL per line. Run /wiki-ingest to process pending URLs.
+# After ingestion, the corresponding queue.md row is updated to ingested | YYYY-MM-DD
+
